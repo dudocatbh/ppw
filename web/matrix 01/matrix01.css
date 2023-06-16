@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    background-image: url("2-Matrix/matrix/fundo_neo.jpg");
+    background-repeat: repeat-y;
+    background-position: right;
+  }
+  table.fotos{
+    width: 100%;
+  }
+  img{
+    margin: 0 20% 0 0;
+  }
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url("2-Matrix/matrix/fundo_matrix.jpg");
+    width: 88%;
+    font-style: italic;
+  }
+  h2.baixo{
+    text-align: right;
+  }
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 12px;
+    color: lightgreen;
+    text-indent: 50px;
+    text-align: justify;
+    width: 88%;
+  }
+  

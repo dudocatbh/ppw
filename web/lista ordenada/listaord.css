@@ -1,0 +1,36 @@
+body{
+    color: darkblue;
+    margin-left: 5%;
+    margin-right: 5%
+  }
+  h2.titulo{
+    font-family: Arial, Helvetica, sans-serif
+  }
+  hr.azul{
+    height: 2px;
+    background-color: darkblue
+  }
+  p.padrao{
+    font-family: Arial, Helvetica, sans-serif
+  }
+  ul.quadrado{
+    list-style-type: square
+  }
+  ul.disco{
+    list-style-type: disc
+  }
+  ul.circulo{
+    list-style-type: circle
+  }
+  ul.seta{
+    list-style-image: url(web/seta_azul.gif)
+  }
+  ol.numero{
+    list-style-type: decimal;
+  }
+  ol.i{
+    list-style-type: lower-roman;
+  }
+  ol.letra{
+    list-style-type: lower-alpha;
+  }
